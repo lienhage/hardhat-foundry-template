@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "check": "prettier --ignore-path .gitignore -c .",
+    "check": "prettier -c .",
     "fmt": "prettier -w .",
     "test": "hardhat test",
     "coverage": "hardhat coverage --solcoverjs ./.core.solcover.js",
