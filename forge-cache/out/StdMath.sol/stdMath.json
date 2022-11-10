@@ -65,9 +65,7 @@
     "absolutePath": "lib/forge-std/src/StdMath.sol",
     "id": 5898,
     "exportedSymbols": {
-      "stdMath": [
-        5897
-      ]
+      "stdMath": [5897]
     },
     "nodeType": "SourceUnit",
     "src": "32:1328:8",
@@ -76,15 +74,7 @@
         "id": 5757,
         "nodeType": "PragmaDirective",
         "src": "32:31:8",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 5897,
@@ -965,10 +955,7 @@
                             "id": 5824,
                             "name": "delta",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              5808,
-                              5844
-                            ],
+                            "overloadedDeclarations": [5808, 5844],
                             "referencedDeclaration": 5808,
                             "src": "881:5:8",
                             "typeDescriptions": {
@@ -1239,9 +1226,7 @@
               "src": "1075:84:8",
               "statements": [
                 {
-                  "assignments": [
-                    5854
-                  ],
+                  "assignments": [5854],
                   "declarations": [
                     {
                       "constant": false,
@@ -1313,10 +1298,7 @@
                       "id": 5855,
                       "name": "delta",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        5808,
-                        5844
-                      ],
+                      "overloadedDeclarations": [5808, 5844],
                       "referencedDeclaration": 5808,
                       "src": "1104:5:8",
                       "typeDescriptions": {
@@ -1542,9 +1524,7 @@
               "src": "1239:118:8",
               "statements": [
                 {
-                  "assignments": [
-                    5877
-                  ],
+                  "assignments": [5877],
                   "declarations": [
                     {
                       "constant": false,
@@ -1616,10 +1596,7 @@
                       "id": 5878,
                       "name": "delta",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        5808,
-                        5844
-                      ],
+                      "overloadedDeclarations": [5808, 5844],
                       "referencedDeclaration": 5844,
                       "src": "1268:5:8",
                       "typeDescriptions": {
@@ -1647,9 +1624,7 @@
                   "src": "1249:30:8"
                 },
                 {
-                  "assignments": [
-                    5884
-                  ],
+                  "assignments": [5884],
                   "declarations": [
                     {
                       "constant": false,
@@ -1928,9 +1903,7 @@
         "contractDependencies": [],
         "contractKind": "library",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          5897
-        ],
+        "linearizedBaseContracts": [5897],
         "name": "stdMath",
         "nameLocation": "73:7:8",
         "scope": 5898,

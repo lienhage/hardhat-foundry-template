@@ -73,21 +73,11 @@
     "absolutePath": "lib/forge-std/src/StdStorage.sol",
     "id": 7363,
     "exportedSymbols": {
-      "StdStorage": [
-        5928
-      ],
-      "Vm": [
-        8750
-      ],
-      "VmSafe": [
-        8425
-      ],
-      "stdStorage": [
-        7362
-      ],
-      "stdStorageSafe": [
-        6821
-      ]
+      "StdStorage": [5928],
+      "Vm": [8750],
+      "VmSafe": [8425],
+      "stdStorage": [7362],
+      "stdStorageSafe": [6821]
     },
     "nodeType": "SourceUnit",
     "src": "32:11833:9",
@@ -96,15 +86,7 @@
         "id": 5899,
         "nodeType": "PragmaDirective",
         "src": "32:31:9",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 5900,
@@ -671,9 +653,7 @@
               "pathNode": {
                 "id": 5945,
                 "name": "Vm",
-                "nameLocations": [
-                  "526:2:9"
-                ],
+                "nameLocations": ["526:2:9"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 8750,
                 "src": "526:2:9"
@@ -1156,9 +1136,7 @@
               "src": "1320:3139:9",
               "statements": [
                 {
-                  "assignments": [
-                    5989
-                  ],
+                  "assignments": [5989],
                   "declarations": [
                     {
                       "constant": false,
@@ -1222,9 +1200,7 @@
                   "src": "1330:26:9"
                 },
                 {
-                  "assignments": [
-                    5994
-                  ],
+                  "assignments": [5994],
                   "declarations": [
                     {
                       "constant": false,
@@ -1287,9 +1263,7 @@
                   "src": "1366:23:9"
                 },
                 {
-                  "assignments": [
-                    5999
-                  ],
+                  "assignments": [5999],
                   "declarations": [
                     {
                       "constant": false,
@@ -1352,9 +1326,7 @@
                   "src": "1399:33:9"
                 },
                 {
-                  "assignments": [
-                    6007
-                  ],
+                  "assignments": [6007],
                   "declarations": [
                     {
                       "constant": false,
@@ -1860,9 +1832,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    6043
-                  ],
+                  "assignments": [6043],
                   "declarations": [
                     {
                       "constant": false,
@@ -2066,9 +2036,7 @@
                   "src": "1771:11:9"
                 },
                 {
-                  "assignments": [
-                    6058
-                  ],
+                  "assignments": [6058],
                   "declarations": [
                     {
                       "constant": false,
@@ -2108,10 +2076,7 @@
                   "src": "1814:128:9",
                   "statements": [
                     {
-                      "assignments": [
-                        null,
-                        6061
-                      ],
+                      "assignments": [null, 6061],
                       "declarations": [
                         null,
                         {
@@ -2343,10 +2308,7 @@
                   ]
                 },
                 {
-                  "assignments": [
-                    6081,
-                    null
-                  ],
+                  "assignments": [6081, null],
                   "declarations": [
                     {
                       "constant": false,
@@ -2679,10 +2641,7 @@
                               "id": 6366,
                               "name": "require",
                               "nodeType": "Identifier",
-                              "overloadedDeclarations": [
-                                -18,
-                                -18
-                              ],
+                              "overloadedDeclarations": [-18, -18],
                               "referencedDeclaration": -18,
                               "src": "3990:7:9",
                               "typeDescriptions": {
@@ -2727,9 +2686,7 @@
                             "src": "2851:1109:9",
                             "statements": [
                               {
-                                "assignments": [
-                                  6208
-                                ],
+                                "assignments": [6208],
                                 "declarations": [
                                   {
                                     "constant": false,
@@ -3289,9 +3246,7 @@
                                 "src": "3080:43:9"
                               },
                               {
-                                "assignments": [
-                                  6249
-                                ],
+                                "assignments": [6249],
                                 "declarations": [
                                   {
                                     "constant": false,
@@ -3326,9 +3281,7 @@
                                 "src": "3141:12:9"
                               },
                               {
-                                "assignments": [
-                                  6252
-                                ],
+                                "assignments": [6252],
                                 "declarations": [
                                   {
                                     "constant": false,
@@ -4904,9 +4857,7 @@
                           },
                           "id": 6364,
                           "initializationExpression": {
-                            "assignments": [
-                              6197
-                            ],
+                            "assignments": [6197],
                             "declarations": [
                               {
                                 "constant": false,
@@ -5003,9 +4954,7 @@
                     "src": "2038:728:9",
                     "statements": [
                       {
-                        "assignments": [
-                          6095
-                        ],
+                        "assignments": [6095],
                         "declarations": [
                           {
                             "constant": false,
@@ -5497,10 +5446,7 @@
                                   "id": 6125,
                                   "name": "require",
                                   "nodeType": "Identifier",
-                                  "overloadedDeclarations": [
-                                    -18,
-                                    -18
-                                  ],
+                                  "overloadedDeclarations": [-18, -18],
                                   "referencedDeclaration": -18,
                                   "src": "2258:7:9",
                                   "typeDescriptions": {
@@ -6613,10 +6559,7 @@
                       "id": 6374,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        -18,
-                        -18
-                      ],
+                      "overloadedDeclarations": [-18, -18],
                       "referencedDeclaration": -18,
                       "src": "4093:7:9",
                       "typeDescriptions": {
@@ -7088,9 +7031,7 @@
                     "pathNode": {
                       "id": 5981,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "1268:10:9"
-                      ],
+                      "nameLocations": ["1268:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "1268:10:9"
@@ -7264,9 +7205,7 @@
                     "pathNode": {
                       "id": 6425,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4481:10:9"
-                      ],
+                      "nameLocations": ["4481:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4481:10:9"
@@ -7336,9 +7275,7 @@
                     "pathNode": {
                       "id": 6431,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4541:10:9"
-                      ],
+                      "nameLocations": ["4541:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4541:10:9"
@@ -7478,9 +7415,7 @@
                     "pathNode": {
                       "id": 6445,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4640:10:9"
-                      ],
+                      "nameLocations": ["4640:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4640:10:9"
@@ -7549,9 +7484,7 @@
                     "pathNode": {
                       "id": 6451,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4696:10:9"
-                      ],
+                      "nameLocations": ["4696:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4696:10:9"
@@ -7728,9 +7661,7 @@
                     "pathNode": {
                       "id": 6465,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4789:10:9"
-                      ],
+                      "nameLocations": ["4789:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4789:10:9"
@@ -7799,9 +7730,7 @@
                     "pathNode": {
                       "id": 6471,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4852:10:9"
-                      ],
+                      "nameLocations": ["4852:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4852:10:9"
@@ -8102,9 +8031,7 @@
                     "pathNode": {
                       "id": 6487,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "4956:10:9"
-                      ],
+                      "nameLocations": ["4956:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "4956:10:9"
@@ -8174,9 +8101,7 @@
                     "pathNode": {
                       "id": 6493,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5012:10:9"
-                      ],
+                      "nameLocations": ["5012:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5012:10:9"
@@ -8387,9 +8312,7 @@
                     "pathNode": {
                       "id": 6518,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5141:10:9"
-                      ],
+                      "nameLocations": ["5141:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5141:10:9"
@@ -8458,9 +8381,7 @@
                     "pathNode": {
                       "id": 6524,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5197:10:9"
-                      ],
+                      "nameLocations": ["5197:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5197:10:9"
@@ -8626,9 +8547,7 @@
                     "pathNode": {
                       "id": 6543,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5308:10:9"
-                      ],
+                      "nameLocations": ["5308:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5308:10:9"
@@ -8697,9 +8616,7 @@
                     "pathNode": {
                       "id": 6549,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5364:10:9"
-                      ],
+                      "nameLocations": ["5364:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5364:10:9"
@@ -8839,9 +8756,7 @@
                     "pathNode": {
                       "id": 6565,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5463:10:9"
-                      ],
+                      "nameLocations": ["5463:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5463:10:9"
@@ -8910,9 +8825,7 @@
                     "pathNode": {
                       "id": 6571,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5522:10:9"
-                      ],
+                      "nameLocations": ["5522:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5522:10:9"
@@ -8944,9 +8857,7 @@
               "src": "5676:124:9",
               "statements": [
                 {
-                  "assignments": [
-                    6593
-                  ],
+                  "assignments": [6593],
                   "declarations": [
                     {
                       "constant": false,
@@ -9010,9 +8921,7 @@
                   "src": "5686:24:9"
                 },
                 {
-                  "assignments": [
-                    6598
-                  ],
+                  "assignments": [6598],
                   "declarations": [
                     {
                       "constant": false,
@@ -9311,9 +9220,7 @@
                     "pathNode": {
                       "id": 6585,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5620:10:9"
-                      ],
+                      "nameLocations": ["5620:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5620:10:9"
@@ -9557,9 +9464,7 @@
                     "pathNode": {
                       "id": 6617,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5828:10:9"
-                      ],
+                      "nameLocations": ["5828:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5828:10:9"
@@ -9625,9 +9530,7 @@
               "src": "6011:211:9",
               "statements": [
                 {
-                  "assignments": [
-                    6644
-                  ],
+                  "assignments": [6644],
                   "declarations": [
                     {
                       "constant": false,
@@ -9886,10 +9789,7 @@
                       "id": 6661,
                       "name": "revert",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        -19,
-                        -19
-                      ],
+                      "overloadedDeclarations": [-19, -19],
                       "referencedDeclaration": -19,
                       "src": "6123:6:9",
                       "typeDescriptions": {
@@ -9949,9 +9849,7 @@
                     "pathNode": {
                       "id": 6636,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "5962:10:9"
-                      ],
+                      "nameLocations": ["5962:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "5962:10:9"
@@ -10195,9 +10093,7 @@
                     "pathNode": {
                       "id": 6667,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "6250:10:9"
-                      ],
+                      "nameLocations": ["6250:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "6250:10:9"
@@ -10442,9 +10338,7 @@
                     "pathNode": {
                       "id": 6686,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "6384:10:9"
-                      ],
+                      "nameLocations": ["6384:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "6384:10:9"
@@ -10688,9 +10582,7 @@
                     "pathNode": {
                       "id": 6705,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "6517:10:9"
-                      ],
+                      "nameLocations": ["6517:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "6517:10:9"
@@ -10756,9 +10648,7 @@
               "src": "6717:217:9",
               "statements": [
                 {
-                  "assignments": [
-                    6733
-                  ],
+                  "assignments": [6733],
                   "declarations": [
                     {
                       "constant": false,
@@ -10793,9 +10683,7 @@
                   "src": "6727:11:9"
                 },
                 {
-                  "assignments": [
-                    6736
-                  ],
+                  "assignments": [6736],
                   "declarations": [
                     {
                       "constant": false,
@@ -11255,9 +11143,7 @@
                   },
                   "id": 6775,
                   "initializationExpression": {
-                    "assignments": [
-                      6747
-                    ],
+                    "assignments": [6747],
                     "declarations": [
                       {
                         "constant": false,
@@ -11477,9 +11363,7 @@
               "src": "7013:320:9",
               "statements": [
                 {
-                  "assignments": [
-                    6788
-                  ],
+                  "assignments": [6788],
                   "declarations": [
                     {
                       "constant": false,
@@ -11629,9 +11513,7 @@
                     "src": "7118:185:9",
                     "statements": [
                       {
-                        "assignments": [
-                          6809
-                        ],
+                        "assignments": [6809],
                         "declarations": [
                           {
                             "constant": false,
@@ -11876,9 +11758,7 @@
                   },
                   "id": 6816,
                   "initializationExpression": {
-                    "assignments": [
-                      6798
-                    ],
+                    "assignments": [6798],
                     "declarations": [
                       {
                         "constant": false,
@@ -12077,9 +11957,7 @@
         "contractDependencies": [],
         "contractKind": "library",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          6821
-        ],
+        "linearizedBaseContracts": [6821],
         "name": "stdStorageSafe",
         "nameLocation": "366:14:9",
         "scope": 7363,
@@ -12111,9 +11989,7 @@
               "pathNode": {
                 "id": 6822,
                 "name": "Vm",
-                "nameLocations": [
-                  "7362:2:9"
-                ],
+                "nameLocations": ["7362:2:9"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 8750,
                 "src": "7362:2:9"
@@ -12624,9 +12500,7 @@
                     "pathNode": {
                       "id": 6852,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "7591:10:9"
-                      ],
+                      "nameLocations": ["7591:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "7591:10:9"
@@ -12810,9 +12684,7 @@
                     "pathNode": {
                       "id": 6866,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "7714:10:9"
-                      ],
+                      "nameLocations": ["7714:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "7714:10:9"
@@ -12882,9 +12754,7 @@
                     "pathNode": {
                       "id": 6872,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "7774:10:9"
-                      ],
+                      "nameLocations": ["7774:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "7774:10:9"
@@ -13034,9 +12904,7 @@
                     "pathNode": {
                       "id": 6884,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "7873:10:9"
-                      ],
+                      "nameLocations": ["7873:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "7873:10:9"
@@ -13105,9 +12973,7 @@
                     "pathNode": {
                       "id": 6890,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "7929:10:9"
-                      ],
+                      "nameLocations": ["7929:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "7929:10:9"
@@ -13257,9 +13123,7 @@
                     "pathNode": {
                       "id": 6902,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8022:10:9"
-                      ],
+                      "nameLocations": ["8022:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8022:10:9"
@@ -13328,9 +13192,7 @@
                     "pathNode": {
                       "id": 6908,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8085:10:9"
-                      ],
+                      "nameLocations": ["8085:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8085:10:9"
@@ -13480,9 +13342,7 @@
                     "pathNode": {
                       "id": 6920,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8183:10:9"
-                      ],
+                      "nameLocations": ["8183:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8183:10:9"
@@ -13552,9 +13412,7 @@
                     "pathNode": {
                       "id": 6926,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8239:10:9"
-                      ],
+                      "nameLocations": ["8239:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8239:10:9"
@@ -13704,9 +13562,7 @@
                     "pathNode": {
                       "id": 6938,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8341:10:9"
-                      ],
+                      "nameLocations": ["8341:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8341:10:9"
@@ -13775,9 +13631,7 @@
                     "pathNode": {
                       "id": 6944,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8397:10:9"
-                      ],
+                      "nameLocations": ["8397:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8397:10:9"
@@ -13927,9 +13781,7 @@
                     "pathNode": {
                       "id": 6956,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8499:10:9"
-                      ],
+                      "nameLocations": ["8499:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8499:10:9"
@@ -13998,9 +13850,7 @@
                     "pathNode": {
                       "id": 6962,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8555:10:9"
-                      ],
+                      "nameLocations": ["8555:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8555:10:9"
@@ -14150,9 +14000,7 @@
                     "pathNode": {
                       "id": 6974,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8654:10:9"
-                      ],
+                      "nameLocations": ["8654:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8654:10:9"
@@ -14221,9 +14069,7 @@
                     "pathNode": {
                       "id": 6980,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8713:10:9"
-                      ],
+                      "nameLocations": ["8713:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8713:10:9"
@@ -14431,12 +14277,7 @@
                       "id": 6999,
                       "name": "checked_write",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        7014,
-                        7031,
-                        7049,
-                        7194
-                      ],
+                      "overloadedDeclarations": [7014, 7031, 7049, 7194],
                       "referencedDeclaration": 7194,
                       "src": "8877:13:9",
                       "typeDescriptions": {
@@ -14496,9 +14337,7 @@
                     "pathNode": {
                       "id": 6992,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8820:10:9"
-                      ],
+                      "nameLocations": ["8820:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8820:10:9"
@@ -14650,12 +14489,7 @@
                       "id": 7022,
                       "name": "checked_write",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        7014,
-                        7031,
-                        7049,
-                        7194
-                      ],
+                      "overloadedDeclarations": [7014, 7031, 7049, 7194],
                       "referencedDeclaration": 7194,
                       "src": "9021:13:9",
                       "typeDescriptions": {
@@ -14715,9 +14549,7 @@
                     "pathNode": {
                       "id": 7015,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "8964:10:9"
-                      ],
+                      "nameLocations": ["8964:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "8964:10:9"
@@ -14782,9 +14614,7 @@
               "src": "9136:153:9",
               "statements": [
                 {
-                  "assignments": [
-                    7040
-                  ],
+                  "assignments": [7040],
                   "declarations": [
                     {
                       "constant": false,
@@ -14905,12 +14735,7 @@
                       "id": 7043,
                       "name": "checked_write",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        7014,
-                        7031,
-                        7049,
-                        7194
-                      ],
+                      "overloadedDeclarations": [7014, 7031, 7049, 7194],
                       "referencedDeclaration": 7194,
                       "src": "9260:13:9",
                       "typeDescriptions": {
@@ -14970,9 +14795,7 @@
                     "pathNode": {
                       "id": 7032,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "9090:10:9"
-                      ],
+                      "nameLocations": ["9090:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "9090:10:9"
@@ -15037,9 +14860,7 @@
               "src": "9365:1025:9",
               "statements": [
                 {
-                  "assignments": [
-                    7058
-                  ],
+                  "assignments": [7058],
                   "declarations": [
                     {
                       "constant": false,
@@ -15103,9 +14924,7 @@
                   "src": "9375:26:9"
                 },
                 {
-                  "assignments": [
-                    7063
-                  ],
+                  "assignments": [7063],
                   "declarations": [
                     {
                       "constant": false,
@@ -15168,9 +14987,7 @@
                   "src": "9411:23:9"
                 },
                 {
-                  "assignments": [
-                    7068
-                  ],
+                  "assignments": [7068],
                   "declarations": [
                     {
                       "constant": false,
@@ -15233,9 +15050,7 @@
                   "src": "9444:33:9"
                 },
                 {
-                  "assignments": [
-                    7076
-                  ],
+                  "assignments": [7076],
                   "declarations": [
                     {
                       "constant": false,
@@ -15307,9 +15122,7 @@
                   "src": "9487:33:9"
                 },
                 {
-                  "assignments": [
-                    7081
-                  ],
+                  "assignments": [7081],
                   "declarations": [
                     {
                       "constant": false,
@@ -15750,9 +15563,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    7112
-                  ],
+                  "assignments": [7112],
                   "declarations": [
                     {
                       "constant": false,
@@ -16040,9 +15851,7 @@
                   "src": "9716:92:9"
                 },
                 {
-                  "assignments": [
-                    7132
-                  ],
+                  "assignments": [7132],
                   "declarations": [
                     {
                       "constant": false,
@@ -16082,10 +15891,7 @@
                   "src": "9841:128:9",
                   "statements": [
                     {
-                      "assignments": [
-                        null,
-                        7135
-                      ],
+                      "assignments": [null, 7135],
                       "declarations": [
                         null,
                         {
@@ -16317,9 +16123,7 @@
                   ]
                 },
                 {
-                  "assignments": [
-                    7152
-                  ],
+                  "assignments": [7152],
                   "declarations": [
                     {
                       "constant": false,
@@ -16535,10 +16339,7 @@
                             "id": 7162,
                             "name": "require",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              -18,
-                              -18
-                            ],
+                            "overloadedDeclarations": [-18, -18],
                             "referencedDeclaration": -18,
                             "src": "10054:7:9",
                             "typeDescriptions": {
@@ -16895,9 +16696,7 @@
                     "pathNode": {
                       "id": 7050,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "9318:10:9"
-                      ],
+                      "nameLocations": ["9318:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "9318:10:9"
@@ -17064,9 +16863,7 @@
                     "pathNode": {
                       "id": 7195,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "10418:10:9"
-                      ],
+                      "nameLocations": ["10418:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "10418:10:9"
@@ -17234,9 +17031,7 @@
                     "pathNode": {
                       "id": 7209,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "10552:10:9"
-                      ],
+                      "nameLocations": ["10552:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "10552:10:9"
@@ -17404,9 +17199,7 @@
                     "pathNode": {
                       "id": 7223,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "10683:10:9"
-                      ],
+                      "nameLocations": ["10683:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "10683:10:9"
@@ -17575,9 +17368,7 @@
                     "pathNode": {
                       "id": 7237,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "10817:10:9"
-                      ],
+                      "nameLocations": ["10817:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "10817:10:9"
@@ -17745,9 +17536,7 @@
                     "pathNode": {
                       "id": 7251,
                       "name": "StdStorage",
-                      "nameLocations": [
-                        "10947:10:9"
-                      ],
+                      "nameLocations": ["10947:10:9"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 5928,
                       "src": "10947:10:9"
@@ -17813,9 +17602,7 @@
               "src": "11195:217:9",
               "statements": [
                 {
-                  "assignments": [
-                    7274
-                  ],
+                  "assignments": [7274],
                   "declarations": [
                     {
                       "constant": false,
@@ -17850,9 +17637,7 @@
                   "src": "11205:11:9"
                 },
                 {
-                  "assignments": [
-                    7277
-                  ],
+                  "assignments": [7277],
                   "declarations": [
                     {
                       "constant": false,
@@ -18312,9 +18097,7 @@
                   },
                   "id": 7316,
                   "initializationExpression": {
-                    "assignments": [
-                      7288
-                    ],
+                    "assignments": [7288],
                     "declarations": [
                       {
                         "constant": false,
@@ -18534,9 +18317,7 @@
               "src": "11542:320:9",
               "statements": [
                 {
-                  "assignments": [
-                    7329
-                  ],
+                  "assignments": [7329],
                   "declarations": [
                     {
                       "constant": false,
@@ -18686,9 +18467,7 @@
                     "src": "11647:185:9",
                     "statements": [
                       {
-                        "assignments": [
-                          7350
-                        ],
+                        "assignments": [7350],
                         "declarations": [
                           {
                             "constant": false,
@@ -18933,9 +18712,7 @@
                   },
                   "id": 7357,
                   "initializationExpression": {
-                    "assignments": [
-                      7339
-                    ],
+                    "assignments": [7339],
                     "declarations": [
                       {
                         "constant": false,
@@ -19134,9 +18911,7 @@
         "contractDependencies": [],
         "contractKind": "library",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          7362
-        ],
+        "linearizedBaseContracts": [7362],
         "name": "stdStorage",
         "nameLocation": "7345:10:9",
         "scope": 7363,

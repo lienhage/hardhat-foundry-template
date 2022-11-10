@@ -866,15 +866,9 @@
     "absolutePath": "lib/forge-std/src/StdAssertions.sol",
     "id": 2667,
     "exportedSymbols": {
-      "DSTest": [
-        1808
-      ],
-      "StdAssertions": [
-        2666
-      ],
-      "stdMath": [
-        5897
-      ]
+      "DSTest": [1808],
+      "StdAssertions": [2666],
+      "stdMath": [5897]
     },
     "nodeType": "SourceUnit",
     "src": "32:7322:4",
@@ -883,15 +877,7 @@
         "id": 1854,
         "nodeType": "PragmaDirective",
         "src": "32:31:4",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 1855,
@@ -1417,10 +1403,7 @@
                       "id": 1904,
                       "name": "fail",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1908,
-                        238
-                      ],
+                      "overloadedDeclarations": [1908, 238],
                       "referencedDeclaration": 238,
                       "src": "539:4:4",
                       "typeDescriptions": {
@@ -1550,10 +1533,7 @@
                       "id": 1913,
                       "name": "assertTrue",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        291,
-                        312
-                      ],
+                      "overloadedDeclarations": [291, 312],
                       "referencedDeclaration": 291,
                       "src": "617:10:4",
                       "typeDescriptions": {
@@ -1699,10 +1679,7 @@
                       "id": 1926,
                       "name": "assertTrue",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        291,
-                        312
-                      ],
+                      "overloadedDeclarations": [291, 312],
                       "referencedDeclaration": 312,
                       "src": "725:10:4",
                       "typeDescriptions": {
@@ -2173,10 +2150,7 @@
                             "id": 1963,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "1049:4:4",
                             "typeDescriptions": {
@@ -2463,26 +2437,9 @@
                             "name": "assertEq",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
-                              1969,
-                              1994,
-                              2007,
-                              2023,
-                              2065,
-                              2107,
-                              2149,
-                              2186,
-                              2223,
-                              2260,
-                              342,
-                              367,
-                              397,
-                              422,
-                              481,
-                              506,
-                              536,
-                              561,
-                              1661,
-                              1696
+                              1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186,
+                              2223, 2260, 342, 367, 397, 422, 481, 506, 536,
+                              561, 1661, 1696
                             ],
                             "referencedDeclaration": 1969,
                             "src": "1233:8:4",
@@ -2671,10 +2628,7 @@
                       "id": 2001,
                       "name": "assertEq0",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1780,
-                        1807
-                      ],
+                      "overloadedDeclarations": [1780, 1807],
                       "referencedDeclaration": 1780,
                       "src": "1347:9:4",
                       "typeDescriptions": {
@@ -2848,10 +2802,7 @@
                       "id": 2016,
                       "name": "assertEq0",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1780,
-                        1807
-                      ],
+                      "overloadedDeclarations": [1780, 1807],
                       "referencedDeclaration": 1807,
                       "src": "1471:9:4",
                       "typeDescriptions": {
@@ -3327,11 +3278,7 @@
                             "id": 2049,
                             "name": "log_named_array",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1880,
-                              1887,
-                              1894
-                            ],
+                            "overloadedDeclarations": [1880, 1887, 1894],
                             "referencedDeclaration": 1880,
                             "src": "1728:15:4",
                             "typeDescriptions": {
@@ -3405,11 +3352,7 @@
                             "id": 2054,
                             "name": "log_named_array",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1880,
-                              1887,
-                              1894
-                            ],
+                            "overloadedDeclarations": [1880, 1887, 1894],
                             "referencedDeclaration": 1880,
                             "src": "1779:15:4",
                             "typeDescriptions": {
@@ -3445,10 +3388,7 @@
                             "id": 2059,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "1825:4:4",
                             "typeDescriptions": {
@@ -3918,11 +3858,7 @@
                             "id": 2091,
                             "name": "log_named_array",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1880,
-                              1887,
-                              1894
-                            ],
+                            "overloadedDeclarations": [1880, 1887, 1894],
                             "referencedDeclaration": 1887,
                             "src": "2075:15:4",
                             "typeDescriptions": {
@@ -3996,11 +3932,7 @@
                             "id": 2096,
                             "name": "log_named_array",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1880,
-                              1887,
-                              1894
-                            ],
+                            "overloadedDeclarations": [1880, 1887, 1894],
                             "referencedDeclaration": 1887,
                             "src": "2126:15:4",
                             "typeDescriptions": {
@@ -4036,10 +3968,7 @@
                             "id": 2101,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "2172:4:4",
                             "typeDescriptions": {
@@ -4509,11 +4438,7 @@
                             "id": 2133,
                             "name": "log_named_array",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1880,
-                              1887,
-                              1894
-                            ],
+                            "overloadedDeclarations": [1880, 1887, 1894],
                             "referencedDeclaration": 1894,
                             "src": "2428:15:4",
                             "typeDescriptions": {
@@ -4587,11 +4512,7 @@
                             "id": 2138,
                             "name": "log_named_array",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1880,
-                              1887,
-                              1894
-                            ],
+                            "overloadedDeclarations": [1880, 1887, 1894],
                             "referencedDeclaration": 1894,
                             "src": "2479:15:4",
                             "typeDescriptions": {
@@ -4627,10 +4548,7 @@
                             "id": 2143,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "2525:4:4",
                             "typeDescriptions": {
@@ -5115,26 +5033,9 @@
                             "name": "assertEq",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
-                              1969,
-                              1994,
-                              2007,
-                              2023,
-                              2065,
-                              2107,
-                              2149,
-                              2186,
-                              2223,
-                              2260,
-                              342,
-                              367,
-                              397,
-                              422,
-                              481,
-                              506,
-                              536,
-                              561,
-                              1661,
-                              1696
+                              1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186,
+                              2223, 2260, 342, 367, 397, 422, 481, 506, 536,
+                              561, 1661, 1696
                             ],
                             "referencedDeclaration": 2065,
                             "src": "2779:8:4",
@@ -5645,26 +5546,9 @@
                             "name": "assertEq",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
-                              1969,
-                              1994,
-                              2007,
-                              2023,
-                              2065,
-                              2107,
-                              2149,
-                              2186,
-                              2223,
-                              2260,
-                              342,
-                              367,
-                              397,
-                              422,
-                              481,
-                              506,
-                              536,
-                              561,
-                              1661,
-                              1696
+                              1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186,
+                              2223, 2260, 342, 367, 397, 422, 481, 506, 536,
+                              561, 1661, 1696
                             ],
                             "referencedDeclaration": 2107,
                             "src": "3039:8:4",
@@ -6175,26 +6059,9 @@
                             "name": "assertEq",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [
-                              1969,
-                              1994,
-                              2007,
-                              2023,
-                              2065,
-                              2107,
-                              2149,
-                              2186,
-                              2223,
-                              2260,
-                              342,
-                              367,
-                              397,
-                              422,
-                              481,
-                              506,
-                              536,
-                              561,
-                              1661,
-                              1696
+                              1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186,
+                              2223, 2260, 342, 367, 397, 422, 481, 506, 536,
+                              561, 1661, 1696
                             ],
                             "referencedDeclaration": 2149,
                             "src": "3301:8:4",
@@ -6494,26 +6361,8 @@
                       "name": "assertEq",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1969,
-                        1994,
-                        2007,
-                        2023,
-                        2065,
-                        2107,
-                        2149,
-                        2186,
-                        2223,
-                        2260,
-                        342,
-                        367,
-                        397,
-                        422,
-                        481,
-                        506,
-                        536,
-                        561,
-                        1661,
-                        1696
+                        1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                        2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661, 1696
                       ],
                       "referencedDeclaration": 536,
                       "src": "3430:8:4",
@@ -6631,9 +6480,7 @@
               "src": "3559:386:4",
               "statements": [
                 {
-                  "assignments": [
-                    2289
-                  ],
+                  "assignments": [2289],
                   "declarations": [
                     {
                       "constant": false,
@@ -7161,10 +7008,7 @@
                             "id": 2323,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "3922:4:4",
                             "typeDescriptions": {
@@ -7311,9 +7155,7 @@
               "src": "4054:191:4",
               "statements": [
                 {
-                  "assignments": [
-                    2341
-                  ],
+                  "assignments": [2341],
                   "declarations": [
                     {
                       "constant": false,
@@ -7611,12 +7453,7 @@
                             "id": 2356,
                             "name": "assertApproxEqAbs",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              2329,
-                              2365,
-                              2415,
-                              2451
-                            ],
+                            "overloadedDeclarations": [2329, 2365, 2415, 2451],
                             "referencedDeclaration": 2329,
                             "src": "4195:17:4",
                             "typeDescriptions": {
@@ -7790,9 +7627,7 @@
               "src": "4333:383:4",
               "statements": [
                 {
-                  "assignments": [
-                    2375
-                  ],
+                  "assignments": [2375],
                   "declarations": [
                     {
                       "constant": false,
@@ -8320,10 +8155,7 @@
                             "id": 2409,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "4693:4:4",
                             "typeDescriptions": {
@@ -8470,9 +8302,7 @@
               "src": "4823:191:4",
               "statements": [
                 {
-                  "assignments": [
-                    2427
-                  ],
+                  "assignments": [2427],
                   "declarations": [
                     {
                       "constant": false,
@@ -8770,12 +8600,7 @@
                             "id": 2442,
                             "name": "assertApproxEqAbs",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              2329,
-                              2365,
-                              2415,
-                              2451
-                            ],
+                            "overloadedDeclarations": [2329, 2365, 2415, 2451],
                             "referencedDeclaration": 2415,
                             "src": "4964:17:4",
                             "typeDescriptions": {
@@ -9041,25 +8866,8 @@
                         "name": "assertEq",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [
-                          1969,
-                          1994,
-                          2007,
-                          2023,
-                          2065,
-                          2107,
-                          2149,
-                          2186,
-                          2223,
-                          2260,
-                          342,
-                          367,
-                          397,
-                          422,
-                          481,
-                          506,
-                          536,
-                          561,
-                          1661,
+                          1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                          2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661,
                           1696
                         ],
                         "referencedDeclaration": 536,
@@ -9092,9 +8900,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    2470
-                  ],
+                  "assignments": [2470],
                   "declarations": [
                     {
                       "constant": false,
@@ -9662,10 +9468,7 @@
                             "id": 2506,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "5723:4:4",
                             "typeDescriptions": {
@@ -9920,25 +9723,8 @@
                         "name": "assertEq",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [
-                          1969,
-                          1994,
-                          2007,
-                          2023,
-                          2065,
-                          2107,
-                          2149,
-                          2186,
-                          2223,
-                          2260,
-                          342,
-                          367,
-                          397,
-                          422,
-                          481,
-                          506,
-                          536,
-                          561,
-                          1661,
+                          1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                          2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661,
                           1696
                         ],
                         "referencedDeclaration": 561,
@@ -9971,9 +9757,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    2534
-                  ],
+                  "assignments": [2534],
                   "declarations": [
                     {
                       "constant": false,
@@ -10271,12 +10055,7 @@
                             "id": 2549,
                             "name": "assertApproxEqRel",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              2512,
-                              2558,
-                              2619,
-                              2665
-                            ],
+                            "overloadedDeclarations": [2512, 2558, 2619, 2665],
                             "referencedDeclaration": 2512,
                             "src": "6219:17:4",
                             "typeDescriptions": {
@@ -10542,25 +10321,8 @@
                         "name": "assertEq",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [
-                          1969,
-                          1994,
-                          2007,
-                          2023,
-                          2065,
-                          2107,
-                          2149,
-                          2186,
-                          2223,
-                          2260,
-                          342,
-                          367,
-                          397,
-                          422,
-                          481,
-                          506,
-                          536,
-                          561,
-                          1661,
+                          1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                          2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661,
                           1696
                         ],
                         "referencedDeclaration": 481,
@@ -10593,9 +10355,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    2577
-                  ],
+                  "assignments": [2577],
                   "declarations": [
                     {
                       "constant": false,
@@ -11163,10 +10923,7 @@
                             "id": 2613,
                             "name": "fail",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              1908,
-                              238
-                            ],
+                            "overloadedDeclarations": [1908, 238],
                             "referencedDeclaration": 238,
                             "src": "6894:4:4",
                             "typeDescriptions": {
@@ -11421,25 +11178,8 @@
                         "name": "assertEq",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [
-                          1969,
-                          1994,
-                          2007,
-                          2023,
-                          2065,
-                          2107,
-                          2149,
-                          2186,
-                          2223,
-                          2260,
-                          342,
-                          367,
-                          397,
-                          422,
-                          481,
-                          506,
-                          536,
-                          561,
-                          1661,
+                          1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                          2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661,
                           1696
                         ],
                         "referencedDeclaration": 506,
@@ -11472,9 +11212,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    2641
-                  ],
+                  "assignments": [2641],
                   "declarations": [
                     {
                       "constant": false,
@@ -11772,12 +11510,7 @@
                             "id": 2656,
                             "name": "assertApproxEqRel",
                             "nodeType": "Identifier",
-                            "overloadedDeclarations": [
-                              2512,
-                              2558,
-                              2619,
-                              2665
-                            ],
+                            "overloadedDeclarations": [2512, 2558, 2619, 2665],
                             "referencedDeclaration": 2619,
                             "src": "7294:17:4",
                             "typeDescriptions": {
@@ -11948,9 +11681,7 @@
             "baseName": {
               "id": 1857,
               "name": "DSTest",
-              "nameLocations": [
-                "152:6:4"
-              ],
+              "nameLocations": ["152:6:4"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1808,
               "src": "152:6:4"
@@ -11964,10 +11695,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          2666,
-          1808
-        ],
+        "linearizedBaseContracts": [2666, 1808],
         "name": "StdAssertions",
         "nameLocation": "135:13:4",
         "scope": 2667,

@@ -1051,57 +1051,23 @@
     "absolutePath": "test/foundry/Counter.t.sol",
     "id": 24942,
     "exportedSymbols": {
-      "CommonBase": [
-        1840
-      ],
-      "Counter": [
-        21
-      ],
-      "CounterTest": [
-        24941
-      ],
-      "DSTest": [
-        1808
-      ],
-      "StdAssertions": [
-        2666
-      ],
-      "StdCheats": [
-        5062
-      ],
-      "StdStorage": [
-        5928
-      ],
-      "StdUtils": [
-        7757
-      ],
-      "Test": [
-        7788
-      ],
-      "TestBase": [
-        7777
-      ],
-      "Vm": [
-        8750
-      ],
-      "console": [
-        16814
-      ],
-      "console2": [
-        24879
-      ],
-      "stdError": [
-        5128
-      ],
-      "stdJson": [
-        5755
-      ],
-      "stdMath": [
-        5897
-      ],
-      "stdStorage": [
-        7362
-      ]
+      "CommonBase": [1840],
+      "Counter": [21],
+      "CounterTest": [24941],
+      "DSTest": [1808],
+      "StdAssertions": [2666],
+      "StdCheats": [5062],
+      "StdStorage": [5928],
+      "StdUtils": [7757],
+      "Test": [7788],
+      "TestBase": [7777],
+      "Vm": [8750],
+      "console": [16814],
+      "console2": [24879],
+      "stdError": [5128],
+      "stdJson": [5755],
+      "stdMath": [5897],
+      "stdStorage": [7362]
     },
     "nodeType": "SourceUnit",
     "src": "39:491:15",
@@ -1110,12 +1076,7 @@
         "id": 24881,
         "nodeType": "PragmaDirective",
         "src": "39:24:15",
-        "literals": [
-          "solidity",
-          "^",
-          "0.8",
-          ".13"
-        ]
+        "literals": ["solidity", "^", "0.8", ".13"]
       },
       {
         "id": 24882,
@@ -1168,9 +1129,7 @@
               "pathNode": {
                 "id": 24886,
                 "name": "Counter",
-                "nameLocations": [
-                  "168:7:15"
-                ],
+                "nameLocations": ["168:7:15"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 21,
                 "src": "168:7:15"
@@ -1235,9 +1194,7 @@
                           "pathNode": {
                             "id": 24892,
                             "name": "Counter",
-                            "nameLocations": [
-                              "245:7:15"
-                            ],
+                            "nameLocations": ["245:7:15"],
                             "nodeType": "IdentifierPath",
                             "referencedDeclaration": 21,
                             "src": "245:7:15"
@@ -1518,26 +1475,8 @@
                       "name": "assertEq",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1969,
-                        1994,
-                        2007,
-                        2023,
-                        2065,
-                        2107,
-                        2149,
-                        2186,
-                        2223,
-                        2260,
-                        342,
-                        367,
-                        397,
-                        422,
-                        481,
-                        506,
-                        536,
-                        561,
-                        1661,
-                        1696
+                        1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                        2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661, 1696
                       ],
                       "referencedDeclaration": 536,
                       "src": "368:8:15",
@@ -1748,26 +1687,8 @@
                       "name": "assertEq",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        1969,
-                        1994,
-                        2007,
-                        2023,
-                        2065,
-                        2107,
-                        2149,
-                        2186,
-                        2223,
-                        2260,
-                        342,
-                        367,
-                        397,
-                        422,
-                        481,
-                        506,
-                        536,
-                        561,
-                        1661,
-                        1696
+                        1969, 1994, 2007, 2023, 2065, 2107, 2149, 2186, 2223,
+                        2260, 342, 367, 397, 422, 481, 506, 536, 561, 1661, 1696
                       ],
                       "referencedDeclaration": 536,
                       "src": "491:8:15",
@@ -1856,9 +1777,7 @@
             "baseName": {
               "id": 24884,
               "name": "Test",
-              "nameLocations": [
-                "157:4:15"
-              ],
+              "nameLocations": ["157:4:15"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 7788,
               "src": "157:4:15"
@@ -1869,21 +1788,11 @@
           }
         ],
         "canonicalName": "CounterTest",
-        "contractDependencies": [
-          21
-        ],
+        "contractDependencies": [21],
         "contractKind": "contract",
         "fullyImplemented": true,
         "linearizedBaseContracts": [
-          24941,
-          7788,
-          7757,
-          5062,
-          4673,
-          2666,
-          1808,
-          7777,
-          1840
+          24941, 7788, 7757, 5062, 4673, 2666, 1808, 7777, 1840
         ],
         "name": "CounterTest",
         "nameLocation": "142:11:15",

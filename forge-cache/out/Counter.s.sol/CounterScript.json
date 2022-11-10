@@ -235,45 +235,19 @@
     "absolutePath": "script/Counter.s.sol",
     "id": 24980,
     "exportedSymbols": {
-      "CommonBase": [
-        1919
-      ],
-      "CounterScript": [
-        24979
-      ],
-      "Script": [
-        1964
-      ],
-      "ScriptBase": [
-        1954
-      ],
-      "StdCheatsSafe": [
-        4785
-      ],
-      "StdStorage": [
-        6040
-      ],
-      "StdUtils": [
-        7869
-      ],
-      "VmSafe": [
-        8506
-      ],
-      "console": [
-        16895
-      ],
-      "console2": [
-        24960
-      ],
-      "stdJson": [
-        5867
-      ],
-      "stdMath": [
-        6009
-      ],
-      "stdStorageSafe": [
-        6933
-      ]
+      "CommonBase": [1919],
+      "CounterScript": [24979],
+      "Script": [1964],
+      "ScriptBase": [1954],
+      "StdCheatsSafe": [4785],
+      "StdStorage": [6040],
+      "StdUtils": [7869],
+      "VmSafe": [8506],
+      "console": [16895],
+      "console2": [24960],
+      "stdJson": [5867],
+      "stdMath": [6009],
+      "stdStorageSafe": [6933]
     },
     "nodeType": "SourceUnit",
     "src": "39:185:16",
@@ -282,12 +256,7 @@
         "id": 24962,
         "nodeType": "PragmaDirective",
         "src": "39:24:16",
-        "literals": [
-          "solidity",
-          "^",
-          "0.8",
-          ".13"
-        ]
+        "literals": ["solidity", "^", "0.8", ".13"]
       },
       {
         "id": 24963,
@@ -432,9 +401,7 @@
             "baseName": {
               "id": 24964,
               "name": "Script",
-              "nameLocations": [
-                "123:6:16"
-              ],
+              "nameLocations": ["123:6:16"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1964,
               "src": "123:6:16"
@@ -448,14 +415,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          24979,
-          1964,
-          7869,
-          4785,
-          1954,
-          1919
-        ],
+        "linearizedBaseContracts": [24979, 1964, 7869, 4785, 1954, 1919],
         "name": "CounterScript",
         "nameLocation": "106:13:16",
         "scope": 24980,

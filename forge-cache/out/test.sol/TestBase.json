@@ -169,51 +169,21 @@
     "absolutePath": "lib/forge-std/src/Test.sol",
     "id": 7789,
     "exportedSymbols": {
-      "CommonBase": [
-        1840
-      ],
-      "DSTest": [
-        1808
-      ],
-      "StdAssertions": [
-        2666
-      ],
-      "StdCheats": [
-        5062
-      ],
-      "StdStorage": [
-        5928
-      ],
-      "StdUtils": [
-        7757
-      ],
-      "Test": [
-        7788
-      ],
-      "TestBase": [
-        7777
-      ],
-      "Vm": [
-        8750
-      ],
-      "console": [
-        16814
-      ],
-      "console2": [
-        24879
-      ],
-      "stdError": [
-        5128
-      ],
-      "stdJson": [
-        5755
-      ],
-      "stdMath": [
-        5897
-      ],
-      "stdStorage": [
-        7362
-      ]
+      "CommonBase": [1840],
+      "DSTest": [1808],
+      "StdAssertions": [2666],
+      "StdCheats": [5062],
+      "StdStorage": [5928],
+      "StdUtils": [7757],
+      "Test": [7788],
+      "TestBase": [7777],
+      "Vm": [8750],
+      "console": [16814],
+      "console2": [24879],
+      "stdError": [5128],
+      "stdJson": [5755],
+      "stdMath": [5897],
+      "stdStorage": [7362]
     },
     "nodeType": "SourceUnit",
     "src": "32:404:11",
@@ -222,15 +192,7 @@
         "id": 7759,
         "nodeType": "PragmaDirective",
         "src": "32:31:11",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 7761,
@@ -424,9 +386,7 @@
             "baseName": {
               "id": 7775,
               "name": "CommonBase",
-              "nameLocations": [
-                "339:10:11"
-              ],
+              "nameLocations": ["339:10:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1840,
               "src": "339:10:11"
@@ -440,10 +400,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          7777,
-          1840
-        ],
+        "linearizedBaseContracts": [7777, 1840],
         "name": "TestBase",
         "nameLocation": "327:8:11",
         "scope": 7789,
@@ -459,9 +416,7 @@
             "baseName": {
               "id": 7778,
               "name": "TestBase",
-              "nameLocations": [
-                "380:8:11"
-              ],
+              "nameLocations": ["380:8:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 7777,
               "src": "380:8:11"
@@ -474,9 +429,7 @@
             "baseName": {
               "id": 7780,
               "name": "DSTest",
-              "nameLocations": [
-                "390:6:11"
-              ],
+              "nameLocations": ["390:6:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1808,
               "src": "390:6:11"
@@ -489,9 +442,7 @@
             "baseName": {
               "id": 7782,
               "name": "StdAssertions",
-              "nameLocations": [
-                "398:13:11"
-              ],
+              "nameLocations": ["398:13:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 2666,
               "src": "398:13:11"
@@ -504,9 +455,7 @@
             "baseName": {
               "id": 7784,
               "name": "StdCheats",
-              "nameLocations": [
-                "413:9:11"
-              ],
+              "nameLocations": ["413:9:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 5062,
               "src": "413:9:11"
@@ -519,9 +468,7 @@
             "baseName": {
               "id": 7786,
               "name": "StdUtils",
-              "nameLocations": [
-                "424:8:11"
-              ],
+              "nameLocations": ["424:8:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 7757,
               "src": "424:8:11"
@@ -536,14 +483,7 @@
         "contractKind": "contract",
         "fullyImplemented": true,
         "linearizedBaseContracts": [
-          7788,
-          7757,
-          5062,
-          4673,
-          2666,
-          1808,
-          7777,
-          1840
+          7788, 7757, 5062, 4673, 2666, 1808, 7777, 1840
         ],
         "name": "Test",
         "nameLocation": "372:4:11",

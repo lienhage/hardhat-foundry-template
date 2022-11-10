@@ -196,9 +196,7 @@
     "absolutePath": "contracts/Lock.sol",
     "id": 101,
     "exportedSymbols": {
-      "Lock": [
-        100
-      ]
+      "Lock": [100]
     },
     "nodeType": "SourceUnit",
     "src": "39:968:1",
@@ -207,12 +205,7 @@
         "id": 23,
         "nodeType": "PragmaDirective",
         "src": "39:23:1",
-        "literals": [
-          "solidity",
-          "^",
-          "0.8",
-          ".9"
-        ]
+        "literals": ["solidity", "^", "0.8", ".9"]
       },
       {
         "id": 100,
@@ -448,10 +441,7 @@
                       "id": 38,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        -18,
-                        -18
-                      ],
+                      "overloadedDeclarations": [-18, -18],
                       "referencedDeclaration": -18,
                       "src": "318:7:1",
                       "typeDescriptions": {
@@ -778,10 +768,7 @@
                       "id": 62,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        -18,
-                        -18
-                      ],
+                      "overloadedDeclarations": [-18, -18],
                       "referencedDeclaration": -18,
                       "src": "757:7:1",
                       "typeDescriptions": {
@@ -900,10 +887,7 @@
                       "id": 70,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        -18,
-                        -18
-                      ],
+                      "overloadedDeclarations": [-18, -18],
                       "referencedDeclaration": -18,
                       "src": "831:7:1",
                       "typeDescriptions": {
@@ -1237,9 +1221,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          100
-        ],
+        "linearizedBaseContracts": [100],
         "name": "Lock",
         "nameLocation": "149:4:1",
         "scope": 101,

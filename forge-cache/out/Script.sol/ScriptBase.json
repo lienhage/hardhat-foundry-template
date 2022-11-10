@@ -169,42 +169,18 @@
     "absolutePath": "lib/forge-std/src/Script.sol",
     "id": 1965,
     "exportedSymbols": {
-      "CommonBase": [
-        1919
-      ],
-      "Script": [
-        1964
-      ],
-      "ScriptBase": [
-        1954
-      ],
-      "StdCheatsSafe": [
-        4785
-      ],
-      "StdStorage": [
-        6040
-      ],
-      "StdUtils": [
-        7869
-      ],
-      "VmSafe": [
-        8506
-      ],
-      "console": [
-        16895
-      ],
-      "console2": [
-        24960
-      ],
-      "stdJson": [
-        5867
-      ],
-      "stdMath": [
-        6009
-      ],
-      "stdStorageSafe": [
-        6933
-      ]
+      "CommonBase": [1919],
+      "Script": [1964],
+      "ScriptBase": [1954],
+      "StdCheatsSafe": [4785],
+      "StdStorage": [6040],
+      "StdUtils": [7869],
+      "VmSafe": [8506],
+      "console": [16895],
+      "console2": [24960],
+      "stdJson": [5867],
+      "stdMath": [6009],
+      "stdStorageSafe": [6933]
     },
     "nodeType": "SourceUnit",
     "src": "32:445:5",
@@ -213,15 +189,7 @@
         "id": 1933,
         "nodeType": "PragmaDirective",
         "src": "32:31:5",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 1935,
@@ -395,9 +363,7 @@
               "pathNode": {
                 "id": 1948,
                 "name": "VmSafe",
-                "nameLocations": [
-                  "318:6:5"
-                ],
+                "nameLocations": ["318:6:5"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 8506,
                 "src": "318:6:5"
@@ -467,9 +433,7 @@
             "baseName": {
               "id": 1946,
               "name": "CommonBase",
-              "nameLocations": [
-                "301:10:5"
-              ],
+              "nameLocations": ["301:10:5"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1919,
               "src": "301:10:5"
@@ -483,10 +447,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          1954,
-          1919
-        ],
+        "linearizedBaseContracts": [1954, 1919],
         "name": "ScriptBase",
         "nameLocation": "287:10:5",
         "scope": 1965,
@@ -548,9 +509,7 @@
             "baseName": {
               "id": 1955,
               "name": "ScriptBase",
-              "nameLocations": [
-                "403:10:5"
-              ],
+              "nameLocations": ["403:10:5"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1954,
               "src": "403:10:5"
@@ -563,9 +522,7 @@
             "baseName": {
               "id": 1957,
               "name": "StdCheatsSafe",
-              "nameLocations": [
-                "415:13:5"
-              ],
+              "nameLocations": ["415:13:5"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 4785,
               "src": "415:13:5"
@@ -578,9 +535,7 @@
             "baseName": {
               "id": 1959,
               "name": "StdUtils",
-              "nameLocations": [
-                "430:8:5"
-              ],
+              "nameLocations": ["430:8:5"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 7869,
               "src": "430:8:5"
@@ -594,13 +549,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          1964,
-          7869,
-          4785,
-          1954,
-          1919
-        ],
+        "linearizedBaseContracts": [1964, 7869, 4785, 1954, 1919],
         "name": "Script",
         "nameLocation": "393:6:5",
         "scope": 1965,

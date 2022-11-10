@@ -3360,12 +3360,8 @@
     "absolutePath": "lib/forge-std/src/Vm.sol",
     "id": 8751,
     "exportedSymbols": {
-      "Vm": [
-        8750
-      ],
-      "VmSafe": [
-        8425
-      ]
+      "Vm": [8750],
+      "VmSafe": [8425]
     },
     "nodeType": "SourceUnit",
     "src": "32:20493:12",
@@ -3374,24 +3370,13 @@
         "id": 7790,
         "nodeType": "PragmaDirective",
         "src": "32:31:12",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 7791,
         "nodeType": "PragmaDirective",
         "src": "65:33:12",
-        "literals": [
-          "experimental",
-          "ABIEncoderV2"
-        ]
+        "literals": ["experimental", "ABIEncoderV2"]
       },
       {
         "id": 8425,
@@ -7969,9 +7954,7 @@
                       "pathNode": {
                         "id": 8179,
                         "name": "Log",
-                        "nameLocations": [
-                          "7644:3:12"
-                        ],
+                        "nameLocations": ["7644:3:12"],
                         "nodeType": "IdentifierPath",
                         "referencedDeclaration": 7799,
                         "src": "7644:3:12"
@@ -10933,9 +10916,7 @@
         "contractDependencies": [],
         "contractKind": "interface",
         "fullyImplemented": false,
-        "linearizedBaseContracts": [
-          8425
-        ],
+        "linearizedBaseContracts": [8425],
         "name": "VmSafe",
         "nameLocation": "582:6:12",
         "scope": 8751,
@@ -14703,9 +14684,7 @@
             "baseName": {
               "id": 8426,
               "name": "VmSafe",
-              "nameLocations": [
-                "13388:6:12"
-              ],
+              "nameLocations": ["13388:6:12"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 8425,
               "src": "13388:6:12"
@@ -14719,10 +14698,7 @@
         "contractDependencies": [],
         "contractKind": "interface",
         "fullyImplemented": false,
-        "linearizedBaseContracts": [
-          8750,
-          8425
-        ],
+        "linearizedBaseContracts": [8750, 8425],
         "name": "Vm",
         "nameLocation": "13382:2:12",
         "scope": 8751,

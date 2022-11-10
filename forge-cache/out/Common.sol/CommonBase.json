@@ -161,15 +161,9 @@
     "absolutePath": "lib/forge-std/src/Common.sol",
     "id": 1841,
     "exportedSymbols": {
-      "CommonBase": [
-        1840
-      ],
-      "StdStorage": [
-        5928
-      ],
-      "Vm": [
-        8750
-      ]
+      "CommonBase": [1840],
+      "StdStorage": [5928],
+      "Vm": [8750]
     },
     "nodeType": "SourceUnit",
     "src": "32:429:2",
@@ -178,15 +172,7 @@
         "id": 1810,
         "nodeType": "PragmaDirective",
         "src": "32:31:2",
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".2",
-          "<",
-          "0.9",
-          ".0"
-        ]
+        "literals": ["solidity", ">=", "0.6", ".2", "<", "0.9", ".0"]
       },
       {
         "id": 1813,
@@ -510,9 +496,7 @@
               "pathNode": {
                 "id": 1831,
                 "name": "StdStorage",
-                "nameLocations": [
-                  "383:10:2"
-                ],
+                "nameLocations": ["383:10:2"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 5928,
                 "src": "383:10:2"
@@ -547,9 +531,7 @@
               "pathNode": {
                 "id": 1834,
                 "name": "Vm",
-                "nameLocations": [
-                  "417:2:2"
-                ],
+                "nameLocations": ["417:2:2"],
                 "nodeType": "IdentifierPath",
                 "referencedDeclaration": 8750,
                 "src": "417:2:2"
@@ -619,9 +601,7 @@
         "contractDependencies": [],
         "contractKind": "contract",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          1840
-        ],
+        "linearizedBaseContracts": [1840],
         "name": "CommonBase",
         "nameLocation": "133:10:2",
         "scope": 1841,

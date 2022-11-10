@@ -6,10 +6,7 @@
     "sources": "contracts",
     "tests": "test/foundry",
     "scripts": "script",
-    "libraries": [
-      "lib",
-      "node_modules"
-    ]
+    "libraries": ["lib", "node_modules"]
   },
   "files": {
     "contracts/Counter.sol": {
@@ -27,9 +24,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -66,9 +61,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -105,9 +98,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -144,9 +135,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -196,9 +185,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -247,9 +234,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -289,9 +274,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -334,9 +317,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -373,9 +354,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -389,9 +368,7 @@
           "libraries": {}
         }
       },
-      "imports": [
-        "lib/forge-std/src/Vm.sol"
-      ],
+      "imports": ["lib/forge-std/src/Vm.sol"],
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
@@ -414,9 +391,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -453,9 +428,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -469,9 +442,7 @@
           "libraries": {}
         }
       },
-      "imports": [
-        "lib/forge-std/src/Vm.sol"
-      ],
+      "imports": ["lib/forge-std/src/Vm.sol"],
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
@@ -497,9 +468,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -513,9 +482,7 @@
           "libraries": {}
         }
       },
-      "imports": [
-        "lib/forge-std/src/console2.sol"
-      ],
+      "imports": ["lib/forge-std/src/console2.sol"],
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
@@ -538,9 +505,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -594,9 +559,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -636,9 +599,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -675,9 +636,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
@@ -714,9 +673,7 @@
           },
           "outputSelection": {
             "*": {
-              "": [
-                "ast"
-              ],
+              "": ["ast"],
               "*": [
                 "abi",
                 "evm.bytecode",
